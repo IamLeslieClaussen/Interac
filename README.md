@@ -1,2 +1,2 @@
-# Interac
+# Interact
 Interactive-Blog-Site
